@@ -1,0 +1,31 @@
+.container{
+    display:flex;
+    justify-content:center;
+    
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+.tittle{
+    /*background:url("https://www.commondreams.org/sites/default/files/styles/cd_large/public/views-article/supreme_court_us_2009_0.jpg");*/
+    width:100%;
+    flex-wrap:wrap;
+}
+
+.container2{
+    width:30%;
+     display:flex;
+    justify-content:flex-start;
+}
+.container3{
+    width:50%;
+}
+.container4{
+    width:50%;
+}
+.images{
+    height:20px;
+    width:20px;
+}
